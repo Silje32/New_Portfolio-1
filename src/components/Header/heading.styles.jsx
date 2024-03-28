@@ -9,11 +9,12 @@ export const StyledHeading = styled.h1`
   font-size: 60px;
   flex-grow: 0;
   flex-shrink: 0;
-  text-align: left;
+  text-align: center;
+  padding: 20px;
 `
 
 export const StyledH2 = styled.h2`
-  color: #306FB6;
+  color: white;
   padding: 10px;
   font-family: haboro-serif, serif;
   font-style: normal;
