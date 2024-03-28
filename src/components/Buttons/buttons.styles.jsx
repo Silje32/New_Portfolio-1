@@ -34,7 +34,7 @@ export const StyledExamButton = styled.button`
    font-weight: normal;
    font-style: normal;
 }
-   padding: 10px 20px;
+   padding: 25px 20px;
    font-size: 22px;
    min-width: 200px;
    cursor: pointer;
