@@ -3,7 +3,7 @@ import { StyledH2 } from "../Header/heading.styles";
 import { StyledProjectCard } from "./styledCard.styles";
 
 
-function HomeCard() {
+function ProjectCard() {
 
     return (  
         <>
@@ -21,4 +21,4 @@ function HomeCard() {
     );
 }
 
-export default HomeCard;
+export default ProjectCard;
